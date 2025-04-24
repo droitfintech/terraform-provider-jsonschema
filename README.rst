@@ -58,7 +58,9 @@ Development
 This repository follows structure of |terraform-provider-scaffolding|_ template
 recommended by |terraform|_ developers (see |terraform-publishing-provider|_).
 
-For publishing it uses Gitlab Actions.
+For publishing it uses Github Actions.
+
+To force a new version to build, push a semantic tag to the repository.
 
 Environment requirements:
 
